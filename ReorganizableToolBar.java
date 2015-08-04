@@ -1,5 +1,3 @@
-package sample;
-
 import javafx.scene.Node;
 import javafx.scene.control.Skin;
 import javafx.scene.control.ToolBar;

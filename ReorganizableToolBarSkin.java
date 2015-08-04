@@ -1,5 +1,3 @@
-package sample;
-
 import com.sun.javafx.scene.control.skin.ToolBarSkin;
 import javafx.collections.ListChangeListener;
 import javafx.geometry.Point2D;
